@@ -1,6 +1,6 @@
 # Hi there! 
 ### I am with the [EE](https://eee.metu.edu.tr/) department at [METU](https://www.metu.edu.tr/) and enjoy working on image/video compression!
-### Contact me if you are interested in our [research](https://scholar.google.com/citations?hl=en&user=4xuUglIAAAAJ&view_op=list_works&sortby=pubdate) or [repositories](https://github.com/metu-kamisli).
+### Contact me if you are interested in our [research](https://scholar.google.com/citations?hl=en&user=4xuUglIAAAAJ&view_op=list_works&sortby=pubdate) or [repositories](https://github.com/kamisli-icpl).
 
 <!--
 **kamisli/kamisli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
